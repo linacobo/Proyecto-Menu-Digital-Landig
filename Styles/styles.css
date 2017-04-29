@@ -1,0 +1,12 @@
+.logo{
+	width: 200px;
+	height: 200px;
+	#imag1{
+		display: flex;
+		justify-content: center;
+		#imag2{
+			display: flex;
+			justify-content: center;
+		}
+	}
+}
