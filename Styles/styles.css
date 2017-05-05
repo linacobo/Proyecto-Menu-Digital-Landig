@@ -1,12 +1,55 @@
+
 .logo{
-	width: 200px;
-	height: 200px;
-	#imag1{
+	height:100px;
+	width: 150px;
+	background: #E5FF80;
+	font-size: 40px;
+	border: 3px solid#37C871;
+	
+
+	 }
+	 h2{
 		display: flex;
 		justify-content: center;
-		#imag2{
-			display: flex;
-			justify-content: center;
-		}
+		color:#504416;
+		background: #E5FF80;
+		font-size: 40px;
+		border: 3px solid#37C871;
+		font-family: cooper black;
 	}
-}
+	 #opciones li{
+
+	 	margin-left: 150px;
+	 	padding-bottom: 40px;
+	 	display:inline;
+	 	font-family: cooper black;
+		color:#504416;
+
+	 } 
+	 
+	#textoprincipal{
+
+		width: 300px;
+		float: left;
+		height: 260px;
+		border: 3px solid#37C871;
+		margin-top: 10px;
+		margin-left: 10px;
+		padding: 10px;
+		background: #E5FF80;
+		font-family: cooper black;
+		color:#504416;
+
+	}
+	.imagen{
+
+		display: flex;
+		width: 900px;
+		height: 350px;
+		margin-right: auto;
+		margin-left: auto;	
+		border: 3px solid#37C871;
+	}
+	
+		
+		
